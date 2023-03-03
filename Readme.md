@@ -25,17 +25,16 @@ O Robot é um framework para automação de testes. É open source e independent
  # 1. Instalar Python
 Acessar [www.python.org](http://www.python.org)
 
-		Selecionar Downloads
-		Baixar a última versão para windows
-				Executar o install
-				Selecionar install launcher for all users e add python X.X to path
-					E clicar em customize installation
-					Selecionar as Optional Features
-					Selecionar install for all users
-				Next
-				Install
-				Close
-
+		Baixar a última versão para o seu sistema
+            Executar o install
+            Selecionar install launcher for all users e add python 3.X to path
+                E clicar em customize installation
+                Selecionar as Optional Features
+                Selecionar install for all users
+            Next
+            Install
+            Close
+            
 	Abrir prompt e verificar instalação do python
 
 		Python --version [ENTER]
