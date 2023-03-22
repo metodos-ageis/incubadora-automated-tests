@@ -7,6 +7,8 @@ Documentation             Esta é uma suite de testes para o projeto da discipli
 *** Keywords ***
 Open Session
     Open Browser          about:blank        chrome
+    Maximize Browser Window
 
 Close Session
+    Capture Page Screenshot
     Close All Browsers
