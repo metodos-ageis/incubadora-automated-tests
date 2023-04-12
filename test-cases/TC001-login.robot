@@ -17,6 +17,12 @@ Campo senha obrigatório
     Quando eu clicar em entrar
     Então o botão entrar não deve estar habilitado
 
+Login sem sucesso
+    Dado que eu acesse o portal das startups
+    E insira os dados de login errados
+    Quando eu clicar em entrar
+    Então não devo ver a mensagem de boas vindas
+
 Login com sucesso
     Dado que eu acesse o portal das startups
     E insira os dados de login
