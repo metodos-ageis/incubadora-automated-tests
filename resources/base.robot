@@ -6,7 +6,7 @@ Documentation             Esta é uma suite de testes para o projeto da discipli
 #General functions only
 *** Keywords ***
 Open Session
-    Open Browser          about:blank        chrome
+    Open Browser    about:blank    edge
     Maximize Browser Window
 
 Close Session
